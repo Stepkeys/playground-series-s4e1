@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+catboost_info/
+data/processed/*
+!data/processed/README.md
+outputs/*
+!outputs/README.md
